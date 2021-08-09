@@ -1,0 +1,7 @@
+.custom__container {
+  display: flex;
+  justify-content: space-around;
+}
+.modal-footer {
+  justify-content: center !important;
+}
